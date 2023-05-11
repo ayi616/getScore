@@ -1,0 +1,21 @@
+{
+	"pages": [{
+		"path": "pages/score/index",
+		"style": {
+			"navigationBarTitleText": "腾熙财务高企分数计算"
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		// "navigationBarBackgroundColor": "#FFF",
+		"backgroundColor": "#F8F8F8",
+		// "backgroundColor": "#FFF",
+		"app-plus": {
+			"background": "#efeff4"
+			// "background": "#FFF"
+		},
+		"usingComponents": {}
+	}
+}
